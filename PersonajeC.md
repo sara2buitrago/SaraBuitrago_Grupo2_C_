@@ -17,4 +17,4 @@ Información personal
 <br><br><br>
 Aportes
 <br>
-Creó el lenguaje de programación C en Bell Labs y, junto con Ken Thompson, fue uno de los principales desarrolladores de Unix. C permitió escribir software de sistemas con una combinación influyente de eficiencia y portabilidad, mientras que Unix introdujo conceptos y herramientas que marcaron el desarollo posterior de los sistemas operativos. Su trabajo dejó una huella duradera en lenguajes como C++ y en sistemas de la familia Unix, además de influir en la HENCEÑANSA de la programación..
+Creó el lenguaje de programación C en Bell Labs y, junto con Ken Thompson, fue uno de los principales desarrolladores de Unix. C permitió escribir software de sistemas con una combinación influyente de eficiencia y portabilidad, mientras que Unix introdujo conceptos y herramientas que marcaron el desarollo posterior de los sistemas operativos. Su trabajo dejó una huella duradera en lenguajes como C++ y en sistemas de la familia Unix, además de influir en la enseñanza de la programación..
