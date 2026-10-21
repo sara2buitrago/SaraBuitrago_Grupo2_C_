@@ -7,11 +7,11 @@ Información personal
 <br>
 - Estudios: física y matemáticas aplicadas en la Universidad de Harvard.
 <br>
-- Fecha de nacimiento: nueve de septiembre de mil novecientos cuarenta y uno.
+- Fecha de nacimiento: 09/09/1941
 <br>
 - Área de conocimiento: lenguajes de programación y sistemas operativos.
 <br>
-- Fecha de defunción: aproximadamente doce de octubre de dos mil once.
+- Fecha de defunción: Aprox 12/10/2011
 <br>
 - Ocupación: científico de la computación.
 <br><br><br>
