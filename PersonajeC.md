@@ -1,9 +1,9 @@
-Dennis Ritchie
+# Dennis Ritchie
 <br>
 <!-- Link: [https://upload.wikimedia.org/wikipedia/commons/5/55/Grace_Hopper.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Dennis_Ritchie_2011.jpg) -->
-<img src="link" alt="Fotografía de Dennis Ritchie" width="600">
-<br><br><br>
-Información personal
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Grace_Hopper.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Dennis_Ritchie_2011.jpg" alt="Fotografía de Dennis Ritchie" width="600">
+
+## Información personal
 <br>
 - Estudios: física y matemáticas aplicadas en la Universidad de Harvard.
 <br>
