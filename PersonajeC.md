@@ -5,15 +5,15 @@ Dennis Ritchie
 <br><br><br>
 Información personal
 <br>
-- Estudios: física y matemáticas aplicadas en la Universidad de Harvard.
-<br>
 - Fecha de nacimiento: nueve de septiembre de mil novecientos cuarenta y uno.
-<br>
-- Área de conocimiento: lenguajes de programación y sistemas operativos.
 <br>
 - Fecha de defunción: aproximadamente doce de octubre de dos mil once.
 <br>
 - Ocupación: científico de la computación.
+<br>
+- Área de conocimiento: lenguajes de programación y sistemas operativos.
+<br>
+- Estudios: física y matemáticas aplicadas en la Universidad de Harvard.
 <br><br><br>
 Aportes
 <br>
